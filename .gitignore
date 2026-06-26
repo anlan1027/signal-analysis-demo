@@ -1,0 +1,6 @@
+results/
+results_analytical/
+results_fullwave/
+*.asv
+*.mexw64
+*.mat
